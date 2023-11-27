@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JanOgrodowczyk876
-- 👀 I’m interested in programing websites and apps
-- 🌱 I’m currently learning Java/CSS
+- 👋 Hi, I’m PLDev
+- 👀 I’m interested in programing websites, Apps and IA
+- 🌱 I’m currently learning Python IA Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
