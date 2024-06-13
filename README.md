@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PLDev
-- 👀 I’m interested in programing websites, Apps and IA
-- 🌱 I’m currently learning Python IA Development
+- 👀 I’m interested in programming Discord bots and random stuff in Python
+- 🌱 I’m currently learning Python Discord bots development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
